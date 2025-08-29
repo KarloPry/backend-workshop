@@ -3,6 +3,7 @@
 `git clone https://github.com/KarloPry/backend-workshop`
 
 Si no tenemos git descargado, podemos obtenerlo [aqui](https://git-scm.com/downloads)
+Y para descargar docker podemos con este link [here] (https://www.docker.com/products/docker-desktop/)
 
 # Comandos de docker
 
